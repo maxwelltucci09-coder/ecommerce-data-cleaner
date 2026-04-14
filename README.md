@@ -3,8 +3,8 @@
 **成都12万商家专用** | 多平台CSV/Excel一键整理工具  
 **去重 + 清洗 + 生成产品描述 + 自动打标签**
 
-![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.36+-FF4B4B.svg)
+![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
@@ -16,6 +16,13 @@
 - **AI风格产品描述** 一键生成（成都本地发货模板）
 - **自动打标签**（3C数码、服饰、美妆、食品等）
 - **处理后一键下载** Excel / CSV
+
+---
+
+### 📸 使用截图
+
+<img width="684" height="383" alt="截图1" src="https://github.com/user-attachments/assets/8ba5fb27-e532-48b8-ad61-eea0b0b49a7c" />
+
 
 ---
 
