@@ -36,3 +36,6 @@ pip install streamlit pandas openpyxl
 streamlit run app.py
 
 💰 支持我继续开发工具：https://ifdian.net/a/chengdutools
+
+**🌐 在线体验**（无需安装，直接使用）：
+https://ecommerce-cleaner.streamlit.app
