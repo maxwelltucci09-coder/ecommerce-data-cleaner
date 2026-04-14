@@ -34,3 +34,5 @@ pip install streamlit pandas openpyxl
 
 # 2. 运行工具
 streamlit run app.py
+
+💰 支持我继续开发工具：https://ifdian.net/a/chengdutools
