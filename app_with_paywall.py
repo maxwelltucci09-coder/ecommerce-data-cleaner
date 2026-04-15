@@ -186,4 +186,4 @@ if uploaded_file is not None:
     st.download_button(label="⬇️ 下载Excel文件", data=excel_data, file_name="清理完成_商品数据.xlsx")
     st.download_button(label="⬇️ 下载CSV文件", data=df.to_csv(index=False).encode("utf-8-sig"), file_name="清理完成_商品数据.csv")
 
-st.info("💡 小贴士：先用Excel造10条数据测试。赞助码示例：chengdu2026")
+st.info("💡 小贴士：先用Excel造10条数据测试，赞助后私信我获取专属赞助码。")
