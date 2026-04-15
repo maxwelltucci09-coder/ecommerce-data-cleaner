@@ -3,39 +3,53 @@
 **成都12万商家专用** | 多平台CSV/Excel一键整理工具  
 **去重 + 清洗 + 生成产品描述 + 自动打标签**
 
-![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+---
+
+### ✨ 当前版本
+
+- **基础版**（`app.py`）：免费使用去重、清洗、基础描述和标签
+- **付费增强版**（`app_with_paywall.py`）：**推荐使用**，新增付费墙，解锁营销版产品描述、数据质量报告、智能定价建议、高级标签系统
 
 ---
 
-### ✨ 核心功能
+### 💎 付费功能亮点（输入赞助码解锁）
 
-- **一键上传** CSV / Excel 文件（自动识别格式）
-- **智能去重** + 基础清洗（空格、价格标准化）
-- **AI风格产品描述** 一键生成（成都本地发货模板）
-- **自动打标签**（3C数码、服饰、美妆、食品等）
-- **处理后一键下载** Excel / CSV
+- **🔥 营销版产品描述**：更吸引人的销售文案，突出卖点和参数优势
+- **📊 数据质量报告**：完整性、重复率、异常价格分析
+- **💡 智能定价建议**：根据品类给出市场参考价和优化建议
+- **🏷️ 高级标签系统**：20+品类自动细分
 
----
-
-### 📸 使用截图
-
-<img width="684" height="383" alt="截图1" src="https://github.com/user-attachments/assets/8ba5fb27-e532-48b8-ad61-eea0b0b49a7c" />
-
+**赞助码获取方式**：前往 [爱发电](https://ifdian.net/a/chengdutools) 赞助任意金额后，私信我领取赞助码。
 
 ---
 
 ### 🚀 快速使用（本地运行）
 
+#### 付费增强版（推荐）
 ```bash
-# 1. 安装依赖（只需一次）
-pip install streamlit pandas openpyxl
+streamlit run app_with_paywall.py
 
-# 2. 运行工具
+基础版
+Bash
 streamlit run app.py
 
-💰 支持我继续开发工具：https://ifdian.net/a/chengdutools
+安装依赖（只需执行一次）：
+pip install streamlit pandas openpyxl
 
-**🌐 在线体验**（无需安装，直接使用）：
-https://ecommerce-cleaner.streamlit.app
+🌐 在线体验
+当前在线地址：https://ecommerce-cleaner.streamlit.app
+
+💰 支持继续开发
+如果这个工具帮助到了你，欢迎通过爱发电赞助支持我：
+👉 https://ifdian.net/a/chengdutools
+你的支持是我继续开发更多实用小工具的最大动力！
+
+📌 项目信息
+
+技术栈：Python + Streamlit + Pandas
+目标用户：成都及周边电商商家、淘宝/拼多多/小红书卖家
+许可证：MIT License
+
+欢迎 Star ⭐ 和提出反馈！
+
+<img width="687" height="498" alt="image" src="https://github.com/user-attachments/assets/f719d06f-97bb-4eb4-aad5-347910b345a4" />
