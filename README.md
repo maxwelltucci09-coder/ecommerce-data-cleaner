@@ -51,6 +51,3 @@ pip install streamlit pandas openpyxl
 许可证：MIT License
 
 欢迎 Star ⭐ 和提出反馈！
-
-<img width="759" height="485" alt="截图实力" src="https://github.com/user-attachments/assets/6f081027-e053-4c05-a195-ce22007d2973" />
-
