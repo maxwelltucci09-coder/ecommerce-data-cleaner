@@ -52,4 +52,5 @@ pip install streamlit pandas openpyxl
 
 欢迎 Star ⭐ 和提出反馈！
 
-<img width="687" height="498" alt="image" src="https://github.com/user-attachments/assets/f719d06f-97bb-4eb4-aad5-347910b345a4" />
+<img width="759" height="485" alt="截图实力" src="https://github.com/user-attachments/assets/6f081027-e053-4c05-a195-ce22007d2973" />
+
